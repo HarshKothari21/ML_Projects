@@ -1,5 +1,5 @@
 # Linear_Regression 
-Predict sales revenue on famous advertising data
+Predict sales revenue on famous advertising data.
 
 ##### Skills applied:
 - Cleaning Data
