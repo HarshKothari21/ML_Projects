@@ -7,3 +7,12 @@ Predict sales revenue on famous advertising data.
 - Exploring relationships
 - Creating linear regression model
 - Model Evaluation matrics
+
+# Exploratory Analysis Using Seaborn
+Analyse breast Cancer Diagnostic data.
+
+##### Skills applied:
+- Standardizing Data
+- Visualizing Standardized Data with Seaborn
+- Violin Plots, Box Plots, Swarm Plots, and Joint Plots for Feature Comparison
+- Pair-wise Correlations
