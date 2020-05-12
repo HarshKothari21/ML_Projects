@@ -5,5 +5,5 @@ Predict sales revenue on famous advertising data.
 - Cleaning Data
 - Exploratory Analysis
 - Exploring relationships
-- Creating simple linear regression model
+- Creating linear regression model
 - Model Evaluation matrics
