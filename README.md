@@ -5,7 +5,7 @@ Predict sales revenue on famous advertising data.
 - Cleaning Data
 - Exploratory Analysis
 - Exploring relationships
-- Creating linear regression model
+- Creating linear regression model(Simple, Multiple)
 - Model Evaluation matrics
 
 # Exploratory Analysis Using Seaborn
