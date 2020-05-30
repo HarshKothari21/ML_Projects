@@ -27,3 +27,11 @@ Analyse and predict breast Cancer Diagnostic data.
 - EDA
 - Classification using XGBoost
 - Feature Extraction using Principal Component Analysis
+
+# Predict_Future_Product_Prices
+Predicting Future Product Prices Using Facebook Prophet¶
+
+##### Skills applied:
+- EDA
+- Develop Model using Facebook Prophet
+- Visualize Predictions
