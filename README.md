@@ -11,7 +11,7 @@ Predict sales revenue on famous advertising data.
 - Visualize Prediction Error
 
 # Exploratory Analysis Using Seaborn
-Analyse breast Cancer Diagnostic data.
+Analyze breast Cancer Diagnostic data.
 
 ##### Skills applied:
 - Standardizing Data
