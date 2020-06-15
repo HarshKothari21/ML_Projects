@@ -44,3 +44,12 @@ Heart Disease Prediction
 - Building a Preliminary Classification Tree
 - Cost Complexity Pruning
 - Building, Drawing, Interpreting and Evaluating the Final Classification Tree
+
+# Predict_Employee_Turnover
+Predict Employee Turnover
+
+##### Skills applied:
+- EDA
+- Use of Itter-Tools
+- Cost Complexity Pruning
+- Building, Drawing, Interpreting and Evaluating the Final Classification Tree
