@@ -35,3 +35,12 @@ Predicting Future Product Prices Using Facebook Prophet¶
 - EDA
 - Develop Model using Facebook Prophet
 - Visualize Predictions
+
+# Classification Trees
+Heart Disease Prediction 
+
+##### Skills applied:
+- Formatting the Data for Decision Trees
+- Building a Preliminary Classification Tree
+- Cost Complexity Pruning
+- Building, Drawing, Interpreting and Evaluating the Final Classification Tree
