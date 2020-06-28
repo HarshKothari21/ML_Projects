@@ -10,7 +10,7 @@ Predict sales revenue on famous advertising data.
 - Interaction Effect(Synergy)
 - Visualize Prediction Error
 <p align="center">
-	<img src="output.png" alt="Output Image"></img>
+	<img src="Linear_Regression/output.png" alt="Output Image"></img>
 </p>
 
 # Exploratory Analysis Using Seaborn
