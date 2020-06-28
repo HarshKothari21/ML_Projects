@@ -1,6 +1,6 @@
 # Linear_Regression 
 Predict sales revenue on famous advertising data.
-<p align="center">
+<p style="align:center;position:absolute">
 	<img src="Linear_Regression/output.png" alt="Output Image"></img>
 </p>
 ##### Skills applied:
