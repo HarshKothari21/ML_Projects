@@ -9,6 +9,9 @@ Predict sales revenue on famous advertising data.
 - Model Evaluation matrics
 - Interaction Effect(Synergy)
 - Visualize Prediction Error
+<p align="center">
+	<img src="output.png" alt="Output Image"></img>
+</p>
 
 # Exploratory Analysis Using Seaborn
 Analyze breast Cancer Diagnostic data.
