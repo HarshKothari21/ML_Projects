@@ -56,6 +56,9 @@ Heart Disease Prediction
 - Building a Preliminary Classification Tree
 - Cost Complexity Pruning
 - Building, Drawing, Interpreting and Evaluating the Final Classification Tree
+<p>
+	<img src="Classification_trees/output.png" alt="Output Image" style="float:right"></img>
+</p>
 
 # Predict_Employee_Turnover
 Predict Employee Turnover
@@ -65,3 +68,6 @@ Predict Employee Turnover
 - Use of Itter-Tools
 - Cost Complexity Pruning
 - Building, Drawing, Interpreting and Evaluating the Final Classification Tree
+<p>
+	<img src="Predict_Employee_Turnover/output.png" alt="Output Image" style="float:right"></img>
+</p>
