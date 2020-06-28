@@ -1,6 +1,8 @@
 # Linear_Regression 
 Predict sales revenue on famous advertising data.
-
+<p align="center">
+	<img src="Linear_Regression/output.png" alt="Output Image"></img>
+</p>
 ##### Skills applied:
 - Cleaning Data
 - Exploratory Analysis
