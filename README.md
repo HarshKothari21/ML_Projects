@@ -1,8 +1,5 @@
 # Linear_Regression 
 Predict sales revenue on famous advertising data.
-<p style="align:center;position:relative">
-	<img src="Linear_Regression/output.png" alt="Output Image"></img>
-</p>
 
 ##### Skills applied:
 - Cleaning Data
@@ -12,6 +9,9 @@ Predict sales revenue on famous advertising data.
 - Model Evaluation matrics
 - Interaction Effect(Synergy)
 - Visualize Prediction Error
+<p>
+	<img src="Linear_Regression/output.png" alt="Output Image" style="float:right"></img>
+</p>
 
 # Exploratory Analysis Using Seaborn
 Analyze breast Cancer Diagnostic data.
@@ -21,6 +21,9 @@ Analyze breast Cancer Diagnostic data.
 - Visualizing Standardized Data with Seaborn
 - Violin Plots, Box Plots, Swarm Plots, and Joint Plots for Feature Comparison
 - Pair-wise Correlations
+<p>
+	<img src="Exploratory_Analysis_with_Seaborn/download.png" alt="Output Image" style="float:right"></img>
+</p>
 
 # breast_cancer_clf
 Analyse and predict breast Cancer Diagnostic data.
@@ -30,9 +33,15 @@ Analyse and predict breast Cancer Diagnostic data.
 - EDA
 - Classification using XGBoost
 - Feature Extraction using Principal Component Analysis
+<p>
+	<img src="breast_cancer_clf/output.png" alt="Output Image" style="float:right"></img>
+</p>
 
 # Predict_Future_Product_Prices
 Predicting Future Product Prices Using Facebook Prophet¶
+<p>
+	<img src="Predict_Future_Product_Prices/output.png" alt="Output Image" style="float:right"></img>
+</p>
 
 ##### Skills applied:
 - EDA
