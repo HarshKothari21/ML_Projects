@@ -1,8 +1,9 @@
 # Linear_Regression 
 Predict sales revenue on famous advertising data.
-<p style="align:center;position:absolute">
+<p style="align:center;position:relative">
 	<img src="Linear_Regression/output.png" alt="Output Image"></img>
 </p>
+
 ##### Skills applied:
 - Cleaning Data
 - Exploratory Analysis
@@ -11,9 +12,6 @@ Predict sales revenue on famous advertising data.
 - Model Evaluation matrics
 - Interaction Effect(Synergy)
 - Visualize Prediction Error
-<p align="center">
-	<img src="Linear_Regression/output.png" alt="Output Image"></img>
-</p>
 
 # Exploratory Analysis Using Seaborn
 Analyze breast Cancer Diagnostic data.
